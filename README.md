@@ -2,7 +2,7 @@
 
 ### Source code and reproducibility package.
 -	-----
-This repository is an addition to the Research Project about *Integer Programming Models for the Class Constrained Multi-Level Bin Packing Problem*, see the report for more details.
+This repository is an addition to the [Research Project CSE3000](https://github.com/TU-Delft-CSE/Research-Project) about *Integer Programming Models for the Class Constrained Multi-Level Bin Packing Problem*, see the report for more details.
 ### 1. Source Code
 The **MLBP** folder contains all of the source code for the C++ framework and the implementations of the four formulations:
 MLBP, NFMLBP, CCMLBP, NFCCMLBP.
